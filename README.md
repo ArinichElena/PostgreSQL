@@ -1,5 +1,5 @@
 # Работа с PostgreSQL
-##Подключиться к ВМ: 
+## Подключиться к ВМ: 
 > ssh arinich@публичный_ключ
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/подключение%20к%20БД.png">
 
