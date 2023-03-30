@@ -26,6 +26,3 @@
 #### Посмотреть версию СУБД:
 > select version();
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/посмотреть%20версию%20СУБД.png">
-
-![image](https://user-images.githubusercontent.com/127325338/228846658-8043ea06-09d4-496b-89f1-dc09a3e10419.png)
-
