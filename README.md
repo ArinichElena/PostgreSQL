@@ -1,9 +1,9 @@
 # Работа с PostgreSQL
-** Подключиться к ВМ: **
+**Подключиться к ВМ:**
 > ssh arinich@публичный_ключ
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/подключение%20к%20БД.png">
 
-## Посмотреть список БД:
+**Посмотреть список БД:**
 > pg_lsclusters
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/список%20БД.png">
 
