@@ -29,3 +29,6 @@
 
 #### Подключение через Dbeaver:
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/Dbeaver.png">
+  
+#### Посмотреть версию СУБД Dbeaver:
+<image src="https://github.com/ArinichElena/PostgreSQL/blob/main/Dbeaver%20(version%20BD).png">  
