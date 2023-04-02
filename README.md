@@ -26,3 +26,6 @@
 #### Посмотреть версию СУБД:
 > select version();
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/посмотреть%20версию%20СУБД.png">
+
+#### Подключение через Dbeaver:
+<image src="https://github.com/ArinichElena/PostgreSQL/blob/main/Dbeaver.png">
