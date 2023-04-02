@@ -1,4 +1,5 @@
 # Работа с PostgreSQL
+## cmd
 #### Подключиться к ВМ:
 > ssh arinich@публичный_ключ
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/подключение%20к%20БД.png">
@@ -26,7 +27,8 @@
 #### Посмотреть версию СУБД:
 > select version();
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/посмотреть%20версию%20СУБД.png">
-
+  
+## Dbeaver
 #### Подключение через Dbeaver:
 <image src="https://github.com/ArinichElena/PostgreSQL/blob/main/Dbeaver.png">
   
